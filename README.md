@@ -4,7 +4,8 @@ Um jogo de Sudoku completo e modular desenvolvido em Java, focado em demonstrar 
 
 ## 📋 Sobre o Projeto
 
-Este projeto implementa a lógica do clássico jogo Sudoku rodando diretamente no terminal. Ele foi construído seguindo boas práticas de desenvolvimento de software, como encapsulamento, imutabilidade (onde aplicável) e separação de responsabilidades. O tabuleiro é gerado dinamicamente com base em argumentos passados na inicialização, permitindo diferentes configurações de jogo.
+Este projeto implementa a lógica do clássico jogo Sudoku rodando diretamente no terminal. Ele foi construído seguindo boas práticas de desenvolvimento de software, como encapsulamento, imutabilidade (onde aplicável) e separação de responsabilidades. O tabuleiro é gerado dinamicamente com base em argumentos passados na inicialização, permitindo diferentes configurações de jogo. Este projeto foi criado para cumprimento do Desafio - Criando um Jogo de Sudoku em Java, proposto e orientado pelo professor 
+José Luiz Abreu Cardoso Junior, do curso de Formação Java Fundamentals, da plataforma de ensino DIO (Digital Innovation One).
 
 ## ✨ Principais Funcionalidades
 
